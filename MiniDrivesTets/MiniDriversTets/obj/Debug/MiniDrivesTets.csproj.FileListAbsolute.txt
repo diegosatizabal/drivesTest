@@ -1,0 +1,15 @@
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\MiniDriversTets\bin\Debug\MiniDriversTets.exe.config
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\MiniDriversTets\bin\Debug\MiniDriversTets.exe
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\MiniDriversTets\bin\Debug\MiniDriversTets.pdb
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\MiniDriversTets\bin\Debug\DiskManager.dll
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\MiniDriversTets\bin\Debug\DiskManager.pdb
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\MiniDriversTets\obj\Debug\MiniDrivesTets.csprojAssemblyReference.cache
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\MiniDriversTets\obj\Debug\MiniDriversTets.Form1.resources
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\MiniDriversTets\obj\Debug\MiniDriversTets.Properties.Resources.resources
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\MiniDriversTets\obj\Debug\MiniDrivesTets.csproj.GenerateResource.cache
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\MiniDriversTets\obj\Debug\MiniDrivesTets.csproj.CoreCompileInputs.cache
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\MiniDriversTets\obj\Debug\MiniDrivesTets.csproj.CopyComplete
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\MiniDriversTets\obj\Debug\MiniDriversTets.exe
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\MiniDriversTets\obj\Debug\MiniDriversTets.pdb
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\MiniDriversTets\bin\Debug\MiniDriversTets.exe.CodeAnalysisLog.xml
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\MiniDriversTets\bin\Debug\MiniDriversTets.exe.lastcodeanalysissucceeded

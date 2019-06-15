@@ -1,0 +1,7 @@
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\DiskManager\bin\Debug\DiskManager.dll
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\DiskManager\bin\Debug\DiskManager.pdb
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\DiskManager\obj\Debug\DiskManager.csproj.CoreCompileInputs.cache
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\DiskManager\obj\Debug\DiskManager.dll
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\DiskManager\obj\Debug\DiskManager.pdb
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\DiskManager\bin\Debug\DiskManager.dll.CodeAnalysisLog.xml
+C:\Users\Diego Satizabal\source\repos\MiniDriversTets\DiskManager\bin\Debug\DiskManager.dll.lastcodeanalysissucceeded
